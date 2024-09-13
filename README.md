@@ -20,6 +20,7 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 Sketch:
 
+![alt text](image-1.png)
 Final Image:
 
 ![alt text](image.png)
@@ -28,12 +29,12 @@ Final Image:
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project is a christmas tree. I chose to do this because since its almost mid September, I am very excited for christmas.
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - I am proud of making the tree code with little help. I am also proud of learning how to do methods while doing this project.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - I would probably add more details to my tree, such as a star or even some clouds in the background. 
